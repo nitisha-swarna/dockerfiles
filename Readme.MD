@@ -9,3 +9,6 @@ file name should me Dockerfile
 
 docker build -t [docker-hub-url]/[your-username]/[image-name]:version .
 
+### how to push images to dockerhub
+
+docker push [docker-hub-url]/[your-username]/[image-name]:version
