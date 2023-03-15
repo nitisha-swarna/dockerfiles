@@ -1,5 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="Nitisha"
-LABEL COURSE="DOCKER"
-LABEL DURATION="25HRS"
+
         
