@@ -1,2 +1,5 @@
 ARG VERSION 
 FROM almalinux:${VERSION:-8}
+RUN echo "$GREETING"
+RUN echo "$VERSION"
+" 
